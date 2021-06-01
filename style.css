@@ -1,0 +1,39 @@
+body * {
+    /* background-color: #fff; */
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+table {
+    font-size: 1.2em;
+}
+
+td {
+    /* outline: 1px solid rgba(128, 128, 128, 0.301); */
+}
+
+.table-container {
+    /* background-color: red; */
+    padding: 10px;
+    width: 80%;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    border: 1px solid grey;
+    border-radius: 17px;
+    box-shadow: 3px 3px 30px grey;
+}
+
+table  {
+    text-align: center;
+}
+
+.red {
+    background-color: rgba(255, 0, 0, 0.144);
+}
+.yellow {
+    background-color: rgba(255, 136, 0, 0.164);
+}
+.blue {
+    background-color: rgba(0, 9, 128, 0.089);
+}
